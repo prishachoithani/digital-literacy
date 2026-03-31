@@ -1,125 +1,87 @@
 # Digital Literacy Project
 
-## Badges
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Course](https://img.shields.io/badge/course-Digital%20Literacy-blue)
-![Branch](https://img.shields.io/badge/branch-AIML-orange)
-![Year](https://img.shields.io/badge/year-1st-lightgrey)
-
----
-
 ## Overview
-This repository contains my Digital Literacy Project completed as part of my academic coursework at VIT Bhopal (AIML – First Year). The project focuses on building awareness about digital tools, online safety, and responsible digital behavior.
-
-Digital literacy is an essential skill in today’s world. It involves not only using technology but also understanding how to communicate effectively, collaborate online, and protect personal information from cyber threats.
-
----
+This repository contains my Digital Literacy Project completed as part of my academic coursework at VIT Bhopal (AIML – First Year). The project focuses on building awareness about digital tools, online safety, and responsible digital behavior. In today’s world, digital literacy is essential for academic success, career growth, and safe internet usage. It involves not only using technology but also understanding how to communicate, collaborate, and protect personal information online.
 
 ## Objectives
-- Understand the importance of digital literacy  
-- Develop coding and problem-solving skills  
-- Learn safe and responsible internet practices  
-- Build a professional digital presence  
-- Spread awareness among peers  
-
----
+- To understand the importance of digital literacy in daily life  
+- To develop basic coding and problem-solving skills  
+- To learn safe and responsible online practices  
+- To build a professional digital presence  
+- To spread awareness among peers through quizzes and activities  
 
 ## Project Components
 
 ### 1. Coding Practice
-- Platform: HackerRank  
-- Completed beginner-level problems (e.g., Solve Me First)  
-- Learned input/output handling and logic building  
+- Platform used: HackerRank  
+- Completed beginner-level challenges such as Solve Me First  
+- Learned basic programming concepts like input/output and logic building  
 
 ### 2. Digital Literacy Awareness Quiz
-- Tool: Google Forms  
-- Created a quiz with 5 questions  
-- Included:
-  - Multiple choice questions  
-  - Short answer questions  
-- Topics:
+- Tool used: Google Forms  
+- Created a quiz with exactly 5 questions  
+- Included multiple choice and short answer questions  
+- Focused on topics like:
   - Online safety  
   - Password security  
   - Responsible internet usage  
 
-### 3. Professional Platforms
-- LinkedIn – Professional networking  
-- GitHub – Project hosting and version control  
-- Kaggle – Data science and machine learning practice  
+**Take the Quiz:**  
+https://docs.google.com/forms/d/e/1FAIpQLSfjgHEpkbwpSZFMxmdPd7sgaqt80RI8dALqB7YkBqkN3DFxVw/viewform?usp=publish-editor
 
-### 4. Case Study
-- Topic: 2023 ICMR Aadhaar Data Breach  
-- Key Learnings:
-  - Risks of identity theft  
-  - Importance of cybersecurity  
-  - Need for strong passwords and 2FA  
+### 3. Professional Platforms Exploration
+- LinkedIn – Building professional identity and networking  
+- GitHub – Uploading and managing projects  
+- Kaggle – Practicing machine learning and datasets  
+
+### 4. Case Study: Cybersecurity Awareness
+- Studied the 2023 ICMR Aadhaar Data Breach  
+- Understood risks of identity theft and data misuse  
+- Learned importance of:
+  - Strong passwords  
+  - Two-Factor Authentication  
+  - Privacy awareness  
 
 ### 5. Digital Safety Poster
-- Title: Stay Safe Online  
+- Designed a checklist titled “Stay Safe Online”  
 - Covered:
-  - General safety practices  
+  - General digital safety  
   - Social media privacy  
-  - UPI and financial fraud awareness  
+  - Financial/UPI fraud awareness  
   - Cybercrime reporting  
 
----
-
-## Screenshots (Optional)
-You can add screenshots here:
-- Google Form Quiz  
-- HackerRank submission  
-- Poster design  
-
-Example:
-![Screenshot](images/screenshot.png)
-
----
-
-## Tools and Technologies
-- Canva  
-- HackerRank  
-- Google Forms  
-- GitHub  
-- LinkedIn  
-- Kaggle  
-
----
+## Tools and Technologies Used
+- Canva (for poster design)  
+- HackerRank (coding practice)  
+- Google Forms (quiz creation)  
+- GitHub (project hosting)  
+- LinkedIn (professional networking)  
+- Kaggle (data science learning)  
 
 ## Key Learnings
-- Improved coding and logical thinking  
-- Learned digital content creation  
-- Understood cybersecurity importance  
-- Built awareness of digital identity  
-- Gained hands-on experience with real tools  
-
----
+- Improved coding and logical thinking skills  
+- Learned how to create and manage digital content  
+- Understood importance of cybersecurity and safe online behavior  
+- Developed awareness about digital identity and professional presence  
+- Gained hands-on experience with real-world tools  
 
 ## Future Scope
-- Work on advanced coding projects  
+- Build more advanced coding projects  
 - Participate in Kaggle competitions  
-- Contribute to open-source projects  
-- Build a strong LinkedIn profile  
-- Explore AI/ML real-world applications  
-
----
+- Contribute to open-source projects on GitHub  
+- Strengthen professional network on LinkedIn  
+- Explore AI and ML applications in real-world problems  
 
 ## Digital Safety Reminder
-Stay alert online. Do not share personal data. Always verify links and sources before trusting them.
-
----
+Always stay alert while using the internet. Avoid sharing personal information, verify sources before trusting information, and report cybercrimes immediately.
 
 ## Cyber Safety Resources (India)
-- https://cybercrime.gov.in  
-- Helpline: 1930  
-
----
+- Cyber Crime Portal: https://cybercrime.gov.in  
+- Helpline Number: 1930  
 
 ## Author
-Avani Khare  
+Prisha Choithani
+First year Btech Cse
+VIT BHOPAL UNIVERSITY
 B.Tech (AIML), First Year  
 VIT Bhopal  
-
----
-
-## License
-This project is for educational purposes only.
