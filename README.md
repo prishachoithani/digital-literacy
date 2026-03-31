@@ -81,5 +81,3 @@ Always stay alert while using the internet. Avoid sharing personal information, 
 
 ## Author
 Prisha Choithani
-B.Tech (AIML), First Year  
-VIT Bhopal  
